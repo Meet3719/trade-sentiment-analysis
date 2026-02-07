@@ -1,7 +1,3 @@
-Here is the executive summary of the findings, formatted as a single-page writeup with direct links to the analysis notebook and visual proofs.
-
----
-
 # 🦅 Market Regime & Behavioral Analysis: Executive Summary
 
 **Objective:** Isolate profitable trading patterns by analyzing the interaction between Market Sentiment (Fear/Greed) and Trader Behavior on Hyperliquid.
@@ -10,11 +6,11 @@ Here is the executive summary of the findings, formatted as a single-page writeu
 
 ### 1. Core Findings
 
-**[🔗 See Analysis in Notebook 03](https://www.google.com/search?q=notebooks/03_analysis.ipynb%23part-ii-performance-analysis)**
+**[🔗 See Analysis in Notebook 03](https://github.com/Meet3719/trade-sentiment-analysis/blob/main/Notebooks/03_analysis.ipynb)**
 
 **Q1: Does Performance Differ in Fear vs. Greed?**
 
-* **Yes, Significantly ().** Performance is not symmetric. The market generates significantly **higher returns during Fear regimes** ($103k avg) compared to Greed regimes ($22k avg).
+* **Yes, Significantly.** Performance is not symmetric. The market generates significantly **higher returns during Fear regimes** ($103k avg) compared to Greed regimes ($22k avg).
 * **Implication:** "Fear" is not a time to hide; it is the most profitable regime for skilled traders ("Crisis Alpha").
 
 **Q2: Do Traders Change Behavior?**
@@ -27,7 +23,7 @@ Here is the executive summary of the findings, formatted as a single-page writeu
 
 ### 2. Trader Segmentation (The 4 Archetypes)
 
-**[🔗 See Segmentation Logic](https://www.google.com/search?q=notebooks/03_analysis.ipynb%23part-iv-segmentation)**
+**[🔗 See Segmentation Logic](https://github.com/Meet3719/trade-sentiment-analysis/blob/main/Notebooks/03_analysis.ipynb)**
 
 We categorized market participants to isolate skill from luck:
 
@@ -40,7 +36,7 @@ We categorized market participants to isolate skill from luck:
 
 ### 3. Top 5 Strategic Insights & Visual Proofs
 
-**[🔗 See Visual Evidence](https://www.google.com/search?q=notebooks/03_analysis.ipynb%23part-v-insights)**
+**[🔗 See Visual Evidence](https://github.com/Meet3719/trade-sentiment-analysis/blob/main/Notebooks/03_analysis.ipynb)**
 
 #### 📊 Insight 1: Activity = Skill (The Turnover Factor)
 
@@ -66,7 +62,7 @@ The worst losses for "Donations" occur in Greed, coincident with massive leverag
 
 ### 4. Golden Rules (Actionable Strategies)
 
-**[🔗 See Strategy Logic](https://www.google.com/search?q=notebooks/03_analysis.ipynb%23part-vi-strategies)**
+**[🔗 See Strategy Logic](https://github.com/Meet3719/trade-sentiment-analysis/blob/main/Notebooks/03_analysis.ipynb)**
 
 Based on the data, we propose three algorithmic rules to optimize performance:
 
