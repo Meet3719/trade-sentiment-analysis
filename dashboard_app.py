@@ -19,8 +19,8 @@ st.set_page_config(
 @st.cache_data(ttl=3600)
 def load_data():
     paths = [
-        'data/processed/02_engineered_features.csv',
-        '../data/processed/02_engineered_features.csv',
+        'Data/processed/02_engineered_features.csv',
+        '../Data/processed/02_engineered_features.csv',
         '02_engineered_features.csv'
     ]
     df = None
@@ -60,7 +60,7 @@ df, data_path = load_data()
 model = load_model()
 
 if df.empty:
-    st.error("🚨 Data Not Found. Check 'data/processed/02_engineered_features.csv'")
+    st.error("🚨 Data Not Found. Check 'Data/processed/02_engineered_features.csv'")
     st.stop()
 
 
