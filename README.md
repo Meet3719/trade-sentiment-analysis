@@ -8,11 +8,11 @@
 
 ## 📑 Quick Links & Deliverables
 
-| **Artifact** | **Description** | **Type** |
-| --- | --- | --- |
-| [**📊 Interactive Dashboard**](https://www.google.com/search?q=dashboard_app.py) | The "Command Center" for Risk & Strategy. Run via Streamlit. | **App** |
-| [**📄 Executive Summary**](https://www.google.com/search?q=shortsummary.md) | A 1-page  writeup of findings . | **Report** |
-| [**👨‍💻 Candidate Resume**](https://www.google.com/search?q=Resume.pdf) | Professional CV & Contact Information. | **PDF** |
+| **Artifact** | **Description** | **Type** | **Open** |
+| --- | --- | --- | --- |
+| 📊 **Interactive Dashboard** | The Command Center for Risk & Strategy. Run via Streamlit. | **App** | [Open ↗](https://trade-sentiment-analysisgit-rmgjzah355d2cpywhq9gkr.streamlit.app/) |
+| 📄 **Executive Summary** | A 1-page writeup of findings. | **Report** | [Open ↗](https://github.com/Meet3719/trade-sentiment-analysis/blob/main/shortsummary.md) |
+| 👨‍💻 **Candidate Resume** | Professional CV & Contact Information. | **PDF** | [Open ↗](https://github.com/Meet3719/trade-sentiment-analysis/blob/main/Meet_Resume.pdf) |
 
 ---
 
@@ -47,11 +47,12 @@ Clone the repository and install all required dependencies.
 
 ```bash
 # Clone the repository
-git clone <your-repo-url>
-cd market-regime-analytics
+git clone https://github.com/Meet3719/trade-sentiment-analysis.git
+cd trade-sentiment-analysis
 
 # Install required packages
 pip install -r requirements.txt
+
 ```
 
 ---
@@ -67,6 +68,11 @@ streamlit run dashboard_app.py
 📍 Opens automatically in your browser at:
 **[http://localhost:8501](http://localhost:8501)**
 
+#### 🚀 Live Demo (Hosted)
+
+https://trade-sentiment-analysisgit-rmgjzah355d2cpywhq9gkr.streamlit.app/
+
+---
 ---
 
 ### 3️⃣ Reproducing the Analysis (Notebooks)
