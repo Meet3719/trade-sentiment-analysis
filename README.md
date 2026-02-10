@@ -120,5 +120,5 @@ trade-sentiment-analysis/
 ---
 
 **Author:** Meet Vora
-**Submission Date:** 6 Feb 2026
+**Date:** 6 Feb 2026
 
