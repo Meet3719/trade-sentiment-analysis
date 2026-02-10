@@ -1,6 +1,5 @@
 # 🦅 Market Regime & Behavioral Analytics System
 
-### **Primetrade.ai Engineering Assignment**
 
 **Objective:** Analyze how market sentiment (Fear/Greed) relates to trader behavior and performance on Hyperliquid. Main goal is to uncover patterns that could inform smarter trading strategies.
 
@@ -120,7 +119,5 @@ trade-sentiment-analysis/
 
 
 **Author:** Meet Vora
-
 **Submission Date:** 6 Feb 2026
 
-**For:** Primetrade.ai Engineering Team
