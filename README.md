@@ -95,6 +95,7 @@ Run the notebooks **in order** to fully regenerate data artifacts and models:
 ---
 
 ## 📁 Project Structure
+```bash
 
 trade-sentiment-analysis/
 ├── data/
@@ -115,8 +116,8 @@ trade-sentiment-analysis/
 ├── shortsummary.md             
 └── Meet_Resume.pdf             
 
+```
 ---
-
 
 **Author:** Meet Vora
 **Submission Date:** 6 Feb 2026
